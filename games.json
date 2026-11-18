@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "title": "Cookie Kingdom",
+    "category": "Clicker",
+    "description": "Bake cookies, unlock ovens and grow a cookie empire.",
+    "icon": "cookie",
+    "type": "clicker"
+  },
+  {
+    "id": 2,
+    "title": "Space Cookie Factory",
+    "category": "Clicker",
+    "description": "Build an intergalactic cookie production line.",
+    "icon": "space",
+    "type": "clicker"
+  },
+  {
+    "id": 3,
+    "title": "Golden Biscuit Tycoon",
+    "category": "Clicker",
+    "description": "Turn a tiny biscuit stand into a giant business.",
+    "icon": "gold",
+    "type": "clicker"
+  },
+  {
+    "id": 4,
+    "title": "Candy Clicker",
+    "category": "Clicker",
+    "description": "Collect sweets and unlock candy machines.",
+    "icon": "candy",
+    "type": "clicker"
+  },
+  {
+    "id": 5,
+    "title": "Dragon Egg Clicker",
+    "category": "Clicker",
+    "description": "Tap to hatch dragons and build a dragon sanctuary.",
+    "icon": "dragon",
+    "type": "clicker"
+  },
+  {
+    "id": 6,
+    "title": "Pixel Miner",
+    "category": "Clicker",
+    "description": "Mine pixels and buy automated mining bots.",
+    "icon": "pixel",
+    "type": "clicker"
+  },
+  {
+    "id": 7,
+    "title": "Gem Galaxy",
+    "category": "Clicker",
+    "description": "Collect gems and upgrade your cosmic mine.",
+    "icon": "gem",
+    "type": "clicker"
+  },
+  {
+    "id": 8,
+    "title": "Potion Factory",
+    "category": "Clicker",
+    "description": "Craft potions and automate your magical workshop.",
+    "icon": "potion",
+    "type": "clicker"
+  },
+  {
+    "id": 9,
+    "title": "Burger Billionaire",
+    "category": "Clicker",
+    "description": "Flip burgers, hire chefs and expand your restaurant.",
+    "icon": "burger",
+    "type": "clicker"
+  },
+  {
+    "id": 10,
+    "title": "Banana Empire",
+    "category": "Clicker",
+    "description": "Grow a banana empire with increasingly silly upgrades.",
+    "icon": "banana",
+    "type": "clicker"
+  },
+  {
+    "id": 11,
+    "title": "Neon Reflex",
+    "category": "Arcade",
+    "description": "Hit the target as quickly as possible.",
+    "icon": "neon",
+    "type": "reaction"
+  },
+  {
+    "id": 12,
+    "title": "Lightning Tap",
+    "category": "Arcade",
+    "description": "Test your reaction speed across five rounds.",
+    "icon": "lightning",
+    "type": "reaction"
+  },
+  {
+    "id": 13,
+    "title": "Color Rush",
+    "category": "Arcade",
+    "description": "Choose the correct colour before time runs out.",
+    "icon": "color",
+    "type": "reaction"
+  },
+  {
+    "id": 14,
+    "title": "Number Sprint",
+    "category": "Puzzle",
+    "description": "Solve quick number challenges.",
+    "icon": "number",
+    "type": "number"
+  },
+  {
+    "id": 15,
+    "title": "Memory Matrix",
+    "category": "Puzzle",
+    "description": "Remember the tile sequence and repeat it.",
+    "icon": "memory",
+    "type": "memory"
+  },
+  {
+    "id": 16,
+    "title": "Sequence Master",
+    "category": "Puzzle",
+    "description": "Repeat increasingly long sequences.",
+    "icon": "sequence",
+    "type": "memory"
+  },
+  {
+    "id": 17,
+    "title": "Quick Maths",
+    "category": "Puzzle",
+    "description": "Answer as many maths questions as you can.",
+    "icon": "math",
+    "type": "number"
+  },
+  {
+    "id": 18,
+    "title": "Word Wizard",
+    "category": "Puzzle",
+    "description": "Type the displayed word accurately.",
+    "icon": "word",
+    "type": "typing"
+  },
+  {
+    "id": 19,
+    "title": "Typing Turbo",
+    "category": "Arcade",
+    "description": "Race the clock and type the prompt.",
+    "icon": "keyboard",
+    "type": "typing"
+  },
+  {
+    "id": 20,
+    "title": "Target Practice",
+    "category": "Arcade",
+    "description": "Click targets before they disappear.",
+    "icon": "target",
+    "type": "target"
+  },
+  {
+    "id": 21,
+    "title": "Bubble Pop",
+    "category": "Arcade",
+    "description": "Pop as many bubbles as possible.",
+    "icon": "bubble",
+    "type": "target"
+  },
+  {
+    "id": 22,
+    "title": "Star Catcher",
+    "category": "Arcade",
+    "description": "Catch falling stars with your clicks.",
+    "icon": "star",
+    "type": "target"
+  },
+  {
+    "id": 23,
+    "title": "Mini Trivia",
+    "category": "Quiz",
+    "description": "Answer a collection of general knowledge questions.",
+    "icon": "quiz",
+    "type": "quiz"
+  },
+  {
+    "id": 24,
+    "title": "Science Sprint",
+    "category": "Quiz",
+    "description": "Test your science knowledge.",
+    "icon": "science",
+    "type": "quiz"
+  },
+  {
+    "id": 25,
+    "title": "History Dash",
+    "category": "Quiz",
+    "description": "Try a quick history challenge.",
+    "icon": "history",
+    "type": "quiz"
+  },
+  {
+    "id": 26,
+    "title": "Geography Quest",
+    "category": "Quiz",
+    "description": "Explore the world with geography questions.",
+    "icon": "globe",
+    "type": "quiz"
+  },
+  {
+    "id": 27,
+    "title": "Animal Genius",
+    "category": "Quiz",
+    "description": "Identify animals from clues.",
+    "icon": "animal",
+    "type": "quiz"
+  },
+  {
+    "id": 28,
+    "title": "Tech Trivia",
+    "category": "Quiz",
+    "description": "Test your knowledge of technology.",
+    "icon": "tech",
+    "type": "quiz"
+  },
+  {
+    "id": 29,
+    "title": "Football Quiz",
+    "category": "Quiz",
+    "description": "Answer football-themed trivia questions.",
+    "icon": "football",
+    "type": "quiz"
+  },
+  {
+    "id": 30,
+    "title": "Space Quiz",
+    "category": "Quiz",
+    "description": "Explore astronomy with a short quiz.",
+    "icon": "planet",
+    "type": "quiz"
+  },
+  {
+    "id": 31,
+    "title": "Maze Runner",
+    "category": "Adventure",
+    "description": "Find the exit in a small maze challenge.",
+    "icon": "maze",
+    "type": "maze"
+  },
+  {
+    "id": 32,
+    "title": "Treasure Trail",
+    "category": "Adventure",
+    "description": "Choose paths and discover hidden treasure.",
+    "icon": "treasure",
+    "type": "maze"
+  },
+  {
+    "id": 33,
+    "title": "Dungeon Dash",
+    "category": "Adventure",
+    "description": "Navigate a tiny dungeon and collect coins.",
+    "icon": "dungeon",
+    "type": "maze"
+  },
+  {
+    "id": 34,
+    "title": "Forest Explorer",
+    "category": "Adventure",
+    "description": "Explore a forest path and find the finish.",
+    "icon": "forest",
+    "type": "maze"
+  },
+  {
+    "id": 35,
+    "title": "Ocean Escape",
+    "category": "Adventure",
+    "description": "Navigate an underwater maze.",
+    "icon": "ocean",
+    "type": "maze"
+  },
+  {
+    "id": 36,
+    "title": "Rocket Launch",
+    "category": "Arcade",
+    "description": "Launch your rocket at the right moment.",
+    "icon": "rocket",
+    "type": "reaction"
+  },
+  {
+    "id": 37,
+    "title": "Piano Tiles Mini",
+    "category": "Arcade",
+    "description": "Follow the sequence of musical tiles.",
+    "icon": "piano",
+    "type": "memory"
+  },
+  {
+    "id": 38,
+    "title": "Pattern Pop",
+    "category": "Puzzle",
+    "description": "Spot and complete the pattern.",
+    "icon": "pattern",
+    "type": "number"
+  },
+  {
+    "id": 39,
+    "title": "Odd One Out",
+    "category": "Puzzle",
+    "description": "Find the item that doesn't belong.",
+    "icon": "odd",
+    "type": "quiz"
+  },
+  {
+    "id": 40,
+    "title": "Higher or Lower",
+    "category": "Card",
+    "description": "Guess whether the next number is higher or lower.",
+    "icon": "cards",
+    "type": "number"
+  },
+  {
+    "id": 41,
+    "title": "Coin Flip Streak",
+    "category": "Chance",
+    "description": "Try to build the longest coin-flip streak.",
+    "icon": "coin",
+    "type": "reaction"
+  },
+  {
+    "id": 42,
+    "title": "Dice Duel",
+    "category": "Board",
+    "description": "Roll against the computer and aim for the higher score.",
+    "icon": "dice",
+    "type": "reaction"
+  },
+  {
+    "id": 43,
+    "title": "Rock Paper Scissors",
+    "category": "Arcade",
+    "description": "Play a quick match against the computer.",
+    "icon": "rps",
+    "type": "rps"
+  },
+  {
+    "id": 44,
+    "title": "Tic Tac Toe",
+    "category": "Board",
+    "description": "Play noughts and crosses against a simple opponent.",
+    "icon": "tic",
+    "type": "tic"
+  },
+  {
+    "id": 45,
+    "title": "Connect Three",
+    "category": "Puzzle",
+    "description": "Line up three matching symbols.",
+    "icon": "connect",
+    "type": "tic"
+  },
+  {
+    "id": 46,
+    "title": "Sudoku Sprint",
+    "category": "Puzzle",
+    "description": "Solve a small number-grid challenge.",
+    "icon": "sudoku",
+    "type": "number"
+  },
+  {
+    "id": 47,
+    "title": "Flash Cards",
+    "category": "Learning",
+    "description": "Answer quick fact cards.",
+    "icon": "cards",
+    "type": "quiz"
+  },
+  {
+    "id": 48,
+    "title": "Shape Shifter",
+    "category": "Puzzle",
+    "description": "Remember and match changing shapes.",
+    "icon": "shape",
+    "type": "memory"
+  },
+  {
+    "id": 49,
+    "title": "Tap the Beat",
+    "category": "Arcade",
+    "description": "Tap along with a timed beat.",
+    "icon": "beat",
+    "type": "reaction"
+  },
+  {
+    "id": 50,
+    "title": "Daily Brain Boost",
+    "category": "Puzzle",
+    "description": "A mixed quick-fire brain challenge.",
+    "icon": "brain",
+    "type": "quiz"
+  },
+  {
+    "id": 51,
+    "title": "Idle Island",
+    "category": "Clicker",
+    "description": "Gather resources and expand a tiny island.",
+    "icon": "island",
+    "type": "clicker"
+  },
+  {
+    "id": 52,
+    "title": "Cookie Comet",
+    "category": "Clicker",
+    "description": "A fast-paced cookie production challenge.",
+    "icon": "comet",
+    "type": "clicker"
+  }
+]
